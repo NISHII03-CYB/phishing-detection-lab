@@ -48,7 +48,7 @@ Phishing Simulation Data
 
 A structured CSV file was created containing simulated email log entries.
 
-Example:
+Example:https://github.com/NISHII03-CYB/phishing-detection-lab/blob/main/Screenshot%202026-02-16%20211802.png
  
 
 
